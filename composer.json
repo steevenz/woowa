@@ -19,10 +19,6 @@
         "email": "steevenz@steevenz.com",
         "issues": "https://github.com/steevenz/woowa/issues"
     },
-    "links": {
-        "info": "https://github.com/steevenz/woowa",
-        "wiki": "https://github.com/steevenz/woowa/wiki"
-    },
     "require": {
         "php": "^7.2.0",
         "o2system/curl": "*"
@@ -34,5 +30,6 @@
         "files" : [
             "src/Woowa.php"
         ]
-    }
+    },
+    "minimum-stability": "dev"
 }
