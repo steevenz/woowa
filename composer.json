@@ -32,7 +32,7 @@
             "Steevenz\\Woowa\\": "src"
         },
         "files" : [
-            "src/Citcall.php"
+            "src/Woowa.php"
         ]
     }
 }
